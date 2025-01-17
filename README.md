@@ -1,0 +1,1 @@
+# ng_competitor_monitoring
