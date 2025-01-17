@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+pandas
+nltk
+python-dotenv
+google-generativeai
+selenium
+webdriver-manager
+pickle-mixin
+json5
+re
